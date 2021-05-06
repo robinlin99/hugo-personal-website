@@ -26,14 +26,7 @@ contact_links:
     icon_pack: fab
     name: Twitter
     link: 'https://twitter.com/robinlinzihao'
- -  icon: linkedin
-    icon_pack: fab
-    name: LinkedIn
-    link: 'https://www.linkedin.com/in/robin-lin/'
- -  icon: github
-    icon_pack: fab
-    name: GitHub
-    link: 'https://github.com/robinlin99'
+
 
 # Site header
 
