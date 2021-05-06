@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Robin's Personal Website" # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: "https://jovial-euclid-0ee7f7.netlify.app" # Website URL
+copyright: '© {2021} Robin Lin' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
