@@ -21,16 +21,17 @@ interests:
 - Artificial Intelligence and Machine Learning
 - Computer Vision
 - Robotics
+- Intelligent Systems and Automation
 
 # Education to show in About widget
 education:
   courses:
-  - course: B.S in Electrical and Computer Engineering
+  - course: B.S in Electrical and Computer Engineering, Minor in Computer Science
     institution: Cornell University | Ithaca, NY
-    year: 2022
+    year: Class of 2022
   - course: International Baccalaureate
     institution: Upper Canada College | Toronto, ON
-    year: 2017
+    year: Class of 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,6 +65,8 @@ email: ""
 highlight_name: false
 ---
 
-👋 Hey! I'm Robin, an ECE and CS student @ Cornell University. I am passionate about emerging technologies in the areas of self-driving technologies and robotics.
+👋 Hey! I'm Robin, an ECE and CS student @ Cornell University. I am passionate about emerging technologies in the areas of self-driving technologies and robotics. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+📍 I am currently a research intern at the Autonomous Systems Lab at Cornell University working on nighttime depth estimation. I will be working at Apple and Amazon Robotics as a Software Engineering Intern for the Summer and Fall of 2021. 
+
+
