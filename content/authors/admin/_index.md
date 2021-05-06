@@ -14,7 +14,7 @@ organizations:
   url: https://www.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Incoming SWE Intern @ Apple
+bio: Cornell '22 | Incoming SWE Intern @ Apple
 
 # Interests to show in About widget
 interests:
