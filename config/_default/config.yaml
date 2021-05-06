@@ -5,7 +5,7 @@
 
 title: "Robin's Personal Website" # Website name
 baseurl: "https://jovial-euclid-0ee7f7.netlify.app" # Website URL
-copyright: '© {2021} Robin Lin' # Footer text, e.g. '© {year} Me'
+copyright: '© 2021 Robin Lin' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
