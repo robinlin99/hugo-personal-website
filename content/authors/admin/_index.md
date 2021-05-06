@@ -26,8 +26,11 @@ interests:
 education:
   courses:
   - course: B.S in Electrical and Computer Engineering
-    institution: Cornell University
+    institution: Cornell University | Ithaca, NY
     year: 2022
+  - course: International Baccalaureate
+    institution: Upper Canada College | Toronto, ON
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -50,9 +53,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -63,4 +66,4 @@ highlight_name: false
 
 👋 Hey! I'm Robin, an ECE and CS student @ Cornell University. I am passionate about emerging technologies in the areas of self-driving technologies and robotics.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
