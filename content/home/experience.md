@@ -29,7 +29,7 @@ experience:
     location: North Reading, Massachusetts [Remote]
     date_start: '2021-08-01'
     date_end: '2021-12-01'
-  - title: Incoming Software Engineering Intern
+  - title: Software Engineering Intern
     company: Apple
     company_url: ''
     company_logo: apple
