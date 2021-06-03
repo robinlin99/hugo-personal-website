@@ -27,10 +27,10 @@ interests:
 education:
   courses:
   - course: B.S in Electrical and Computer Engineering, Minor in Computer Science
-    institution: Cornell University | Ithaca, NY
+    institution: Cornell University, 3.971 GPA | Ithaca, NY
     year: Class of 2022
   - course: International Baccalaureate
-    institution: Upper Canada College | Toronto, ON
+    institution: Upper Canada College, 41/45 IB Total | Toronto, ON
     year: Class of 2017
 
 # Social/Academic Networking
@@ -67,6 +67,6 @@ highlight_name: false
 
 👋 Hey! I'm Robin, an ECE and CS student @ Cornell University. I am passionate about emerging technologies in the areas of self-driving technologies and robotics. 
 
-📍 I am currently a research intern at the Autonomous Systems Lab at Cornell University working on nighttime depth estimation. I will be working at Apple and Amazon Robotics as a Software Engineering Intern for the Summer and Fall of 2021. 
+📍 I am currently a Software Engineering Intern at Apple working within the CoreML team. I will be interning at Amazon Robotics as a Software Engineering Co-op Intern for the Fall of 2021. 
 
 

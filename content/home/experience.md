@@ -35,7 +35,7 @@ experience:
     company_logo: apple
     location: Cupertino, California [Remote]
     date_start: '2021-05-24'
-    date_end: '2021-08-01'
+    date_end: ''
 
   - title: Research Intern
     company: Autonomous Systems Lab (ASL) - Cornell University
@@ -43,7 +43,7 @@ experience:
     company_logo: cornell
     location: Ithaca, NY [Remote]
     date_start: '2021-02-08'
-    date_end: ''
+    date_end: '2021-05-24'
 
         
   - title: Systems Engineering Intern
