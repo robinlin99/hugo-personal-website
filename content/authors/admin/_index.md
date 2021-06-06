@@ -67,6 +67,6 @@ highlight_name: false
 
 👋 Hey! I'm Robin, an ECE and CS student @ Cornell University. I am passionate about emerging technologies in the areas of self-driving technologies and robotics. 
 
-📍 I am currently a Software Engineering Intern at Apple working within the CoreML team. I will be interning at Amazon Robotics as a Software Engineering Co-op Intern for the Fall of 2021. 
+📍 I am currently a Software Engineering Intern at Apple working within the CoreML team. I will intern at Amazon Robotics as a Software Engineering Co-op Intern for the Fall of 2021. 
 
 
