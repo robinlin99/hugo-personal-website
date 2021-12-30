@@ -19,7 +19,7 @@ bio: Cornell '22 | Incoming SWE Intern @ Apple
 # Interests to show in About widget
 interests:
 - Artificial Intelligence and Machine Learning
-- Computer Vision
+- Embedded Systems
 - Robotics
 - Intelligent Systems and Automation
 
@@ -67,6 +67,4 @@ highlight_name: false
 
 👋 Hey! I'm Robin, an ECE and CS student @ Cornell University. I am passionate about emerging technologies in the areas of self-driving technologies and robotics. 
 
-📍 I am currently a Software Engineering Intern at Apple working within the CoreML team. I will intern at Amazon Robotics as a Software Engineering Co-op Intern for the Fall of 2021. 
-
-
+📍 I am currently an Embedded SWE Co-op at Amazon Robotics. I was a SWE Intern at Apple for the Summer of 2021 and a Systems Test Engineering Intern at Uber ATG for the Summer of 2020.
