@@ -21,7 +21,7 @@ interests:
 - Artificial Intelligence and Machine Learning
 - Embedded Systems
 - Robotics
-- Intelligent Systems and Automation
+- Evolutionary Algorithms and Systems
 
 # Education to show in About widget
 education:
@@ -67,4 +67,4 @@ highlight_name: false
 
 👋 Hey! I'm Robin, an ECE and CS student @ Cornell University. I am passionate about emerging technologies in the areas of self-driving technologies and robotics. 
 
-📍 I am currently an Embedded SWE Co-op at Amazon Robotics. I was a SWE Intern at Apple for the Summer of 2021 and a Systems Test Engineering Intern at Uber ATG for the Summer of 2020.
+📍 I will be starting my career at Amazon Robotics as an Embedded SDE upon graduation in May 2022. I was an Embedded SDE Co-op at Amazon Robotics for the Fall of 2021, a SWE Intern at Apple for the Summer of 2021, and a Systems Test Engineering Intern at Uber ATG for the Summer of 2020.

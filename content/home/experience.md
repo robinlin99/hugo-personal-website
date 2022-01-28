@@ -22,13 +22,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Incoming SDE
+    company: Amazon Robotics
+    company_url: ''
+    company_logo: ar
+    location: North Reading, Massachusetts
+    date_start: '2022-7-01'
+    date_end: ''
+
   - title: Embedded Firmware Co-op
     company: Amazon Robotics
     company_url: ''
     company_logo: ar
     location: North Reading, Massachusetts [Remote]
     date_start: '2021-08-23'
-    date_end: ''
+    date_end: '2022-01-20'
   
   - title: Software Engineering Intern
     company: Apple
