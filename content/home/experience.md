@@ -27,8 +27,7 @@ experience:
     company_url: ''
     company_logo: ar
     location: North Reading, Massachusetts
-    date_start: '2022-7-01'
-    date_end: ''
+    date_start: '2022-07-01'
 
   - title: Embedded Firmware Co-op
     company: Amazon Robotics
