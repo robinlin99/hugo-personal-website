@@ -29,6 +29,13 @@ experience:
     location: North Reading, Massachusetts
     date_start: '2022-07-01'
 
+  - title: Research Intern
+    company: Space Systems Design Studio
+    company_url: ''
+    company_logo: cornell
+    location: Ithaca, NY
+    date_start: '2022-02-25'
+
   - title: Embedded Firmware Co-op
     company: Amazon Robotics
     company_url: ''
