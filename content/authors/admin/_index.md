@@ -14,20 +14,19 @@ organizations:
   url: https://www.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cornell '22 | Incoming SWE Intern @ Apple
+bio: Cornell '22 | SDE II @ Amazon Robotics
 
 # Interests to show in About widget
 interests:
 - Artificial Intelligence and Machine Learning
 - Embedded Systems
-- Robotics
-- Evolutionary Algorithms and Systems
+- Robotics and Automation
 
 # Education to show in About widget
 education:
   courses:
   - course: B.S in Electrical and Computer Engineering, Minor in Computer Science
-    institution: Cornell University, 3.971 GPA | Ithaca, NY
+    institution: Cornell University, 3.997 GPA, Magna Cum Laude | Ithaca, NY
     year: Class of 2022
   - course: International Baccalaureate
     institution: Upper Canada College, 41/45 IB Total | Toronto, ON
@@ -65,6 +64,4 @@ email: ""
 highlight_name: false
 ---
 
-👋 Hey! I'm Robin, an ECE and CS student @ Cornell University. I am passionate about emerging technologies in the areas of self-driving technologies and robotics. 
-
-📍 I will be starting my career at Amazon Robotics as an Embedded SDE upon graduation in May 2022. I was an Embedded SDE Co-op at Amazon Robotics for the Fall of 2021, a SWE Intern at Apple for the Summer of 2021, and a Systems Test Engineering Intern at Uber ATG for the Summer of 2020.
+👋 Hey! I'm Robin, a SDE II at Amazon Robotics. My focus is Stereo sensing platform/SW/algorithm development, image signal processing, and high performance computing for applied automation. I recently graduated from Cornell University with a B.S in ECE. I am passionate about technologies in the areas of self-driving technologies and robotics.
