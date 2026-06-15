@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: B.S in Electrical and Computer Engineering, Minor in Computer Science
-    institution: Cornell University, 3.997 GPA, Magna Cum Laude | Ithaca, NY
+    institution: Cornell University, 3.998 cGPA, Magna Cum Laude | Ithaca, NY
     year: Class of 2022
   - course: International Baccalaureate
     institution: Upper Canada College, 41/45 IB Total | Toronto, ON
