@@ -6,7 +6,7 @@ title: Robin (Zihao) Lin
 superuser: true
 
 # Role/position/tagline
-role: ECE/CS Student
+role: ECE/CS Graduate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://www.cornell.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Cornell '22 | SDE II @ Amazon Robotics
+bio: Cornell '22 | ex-Amazon Robotics Embedded SDE
 
 # Interests to show in About widget
 interests:
@@ -64,4 +64,4 @@ email: ""
 highlight_name: false
 ---
 
-👋 Hey! I'm Robin, a SDE II at Amazon Robotics. My focus is Stereo sensing platform/SW/algorithm development, image signal processing, and high performance computing for applied automation. I recently graduated from Cornell University with a B.S in ECE. I am passionate about technologies in the areas of self-driving technologies and robotics.
+👋 Hey! I'm Robin, an ex-Amazon Robotics Embedded SDE. I worked there as an Embedded SDE II until October 2026. My focus is Stereo sensing platform/SW/algorithm development, image signal processing, and high performance computing for applied automation. I recently graduated from Cornell University with a B.S in ECE. I am passionate about technologies in the areas of self-driving technologies and robotics.
