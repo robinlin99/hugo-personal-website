@@ -22,12 +22,32 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: SDE
+  - title: Embedded SDE II
+    company: Amazon Robotics
+    company_url: ''
+    company_logo: ar
+    location: North Reading, Massachusetts
+    date_start: '2025-10-01'
+    date_end: '2026-10-31'
+    description: Worked within the Scanless Tech Abstractor and Runtime team.
+
+  - title: Embedded SDE II
+    company: Amazon Robotics
+    company_url: ''
+    company_logo: ar
+    location: North Reading, Massachusetts
+    date_start: '2025-06-01'
+    date_end: '2025-10-01'
+    description: Worked within the Sensor Matrix team.
+
+  - title: Embedded SDE I
     company: Amazon Robotics
     company_url: ''
     company_logo: ar
     location: North Reading, Massachusetts
     date_start: '2022-07-01'
+    date_end: '2025-06-01'
+    description: Worked within the Sensor Matrix team.
 
   - title: Research Intern
     company: Space Systems Design Studio
